@@ -1064,9 +1064,9 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .site-heading {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   overflow: hidden;
-  margin-top: -5px;
+  margin-top: 30px;
 }
 
 .carousel-shadow .owl-stage-outer {
@@ -5775,4 +5775,18 @@ footer.bg-dark .footer-bottom a {
 
 .single-item:hover .info h4 {
   color: var(--red-hdi);
+}
+
+.produk-slide {
+  min-height: 450px;
+  background-color: #f0dfcf70;
+  border-radius: 50px;
+}
+
+.carousel-indicators li {
+  background-color: var(--yellow-hdi); /* warna nonaktif */
+}
+
+.carousel-indicators .active {
+  background-color: var(--red-hdi); /* warna aktif */
 }
