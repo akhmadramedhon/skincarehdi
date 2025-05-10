@@ -996,6 +996,20 @@
   .produk-slide {
     min-height: 624px;
   }
+
+  .produk-slide div img{
+    width: 80%;
+    height: 100%;
+  }
+
+  .paragraf {
+    width: 100%;
+    text-align: center;
+  }
+
+  a span{
+    margin-top: 110px;
+  }
 }
 
 /* Max Wide Mobile Layout: 600px. */

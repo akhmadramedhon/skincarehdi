@@ -5783,6 +5783,14 @@ footer.bg-dark .footer-bottom a {
   border-radius: 50px;
 }
 
+a span i {
+  font-size: 1.5rem; 
+  color: rgb(255, 255, 255); 
+  border-radius: 35%; 
+  padding: 7px; 
+  background-color: #ff353f65;
+}
+
 .carousel-indicators li {
   background-color: var(--yellow-hdi); /* warna nonaktif */
 }
