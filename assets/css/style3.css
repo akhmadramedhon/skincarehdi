@@ -1856,9 +1856,9 @@ body,
   padding-top: 50px;
 }
 
-.banner-area .content-box .thumb-innner {
+/* .banner-area .content-box .thumb-innner {
   margin-top: 25px;
-}
+} */
 
 .banner-area .content-box h2 {
   font-size: 50px;
@@ -1967,9 +1967,9 @@ body,
   line-height: 34px;
 }
 
-.banner-area.text-center p {
+/* .banner-area.text-center p {
   padding: 0 6%;
-}
+} */
 
 .banner-area a {
   margin-top: 10px;
@@ -5711,7 +5711,7 @@ footer.bg-dark .footer-bottom a {
 /* styling akhmad */
 .antioxidant {
   display: flex;
-  padding: 20px 37px;
+  padding: 20px;
   background: #ffffff;
   box-shadow: 0 0 10px #e7e7e7;
   border-radius: 50px;
